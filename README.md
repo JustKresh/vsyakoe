@@ -1,11 +1,3 @@
-[torrenti](https://github.com/JustKresh/vsyakoe/edit/main/README.md#torrenti_vsyakogo) <br/>
-[ssilki](https://github.com/JustKresh/vsyakoe/edit/main/README.md#ssilki_vsyakogo) <br/>
-[repositorii](https://github.com/JustKresh/vsyakoe/edit/main/README.md#repositorii_vsyakogo) <br/>
-[dlya_androida](https://github.com/JustKresh/vsyakoe/edit/main/README.md#dlya_androida_vsyakoe) <br/>
-
-
-
-
 
 # torrenti_vsyakogo
 
