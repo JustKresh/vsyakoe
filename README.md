@@ -1,3 +1,11 @@
+***
+
+[torrent](#torrenti_vsyakogo) <br/>
+[ssilki](#ssilki_vsyakogo)
+
+
+
+***
 
 # torrenti_vsyakogo
 
@@ -17,7 +25,7 @@ magnet:?xt=urn:btih:008DDA26888E3B8E16EB37D9FE8BAB24C16B30EA&tr=http%3A%2F%2Fbt4
  <br/>
 
 
-
+***
 # ssilki_vsyakogo
 ### 1. qbittorrent
 https://www.qbittorrent.org/download
@@ -25,7 +33,7 @@ https://www.qbittorrent.org/download
 
 
 
-
+***
 # repositorii_vsyakogo
 ### 1. sumatra PDF
 https://github.com/sumatrapdfreader
@@ -61,7 +69,7 @@ https://github.com/massgravel/Microsoft-Activation-Scripts
 
 
 
-
+***
 # dlya_androida_vsyakoe
 ### 1. Magisk root-права
 https://github.com/topjohnwu/Magisk
