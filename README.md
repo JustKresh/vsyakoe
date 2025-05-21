@@ -14,3 +14,11 @@ magnet:?xt=urn:btih:008DDA26888E3B8E16EB37D9FE8BAB24C16B30EA&tr=http%3A%2F%2Fbt4
 # ssilki_vsyakogo
 ### 1. qbittorrent
 https://www.qbittorrent.org/download
+
+
+
+
+
+# repositorii_vsyakogo
+### 1. sumatra PDF
+https://github.com/sumatrapdfreader
