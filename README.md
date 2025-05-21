@@ -1,7 +1,9 @@
 ***
 
-[torrent](#torrenti_vsyakogo) <br/>
-[ssilki](#ssilki_vsyakogo)
+[torrenti](#torrenti_vsyakogo) <br/>
+[ssilki](#ssilki_vsyakogo) <br/>
+[repositorii](#repositorii_vsyakogo) <br/>
+[dlya androida](#dlya_androida_vsyakoe)
 
 
 
