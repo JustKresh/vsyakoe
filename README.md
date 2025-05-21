@@ -22,3 +22,21 @@ https://www.qbittorrent.org/download
 # repositorii_vsyakogo
 ### 1. sumatra PDF
 https://github.com/sumatrapdfreader
+### 2. Flowseal/zapret-discord-youtube
+https://github.com/Flowseal/zapret-discord-youtube
+### 3. warp-config-generator-vercel
+https://github.com/nellimonix/warp-config-generator-vercel
+### 4. bash-warp-generator
+https://github.com/ImMALWARE/bash-warp-generator
+### 5. amneziawg-windows-client
+https://github.com/amnezia-vpn/amneziawg-windows-client
+### 6. amnezia-client VPN
+https://github.com/amnezia-vpn/amnezia-client
+### 7. openvpn
+https://github.com/OpenVPN/openvpn
+### 8. rufus
+https://github.com/pbatard/rufus
+### 9. voice-over-translation Переводчик как в ЯндексБраузере
+https://github.com/ilyhalight/voice-over-translation
+### 10. Microsoft-Activation-Scripts Активация винды
+https://github.com/massgravel/Microsoft-Activation-Scripts
