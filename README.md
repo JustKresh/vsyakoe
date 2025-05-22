@@ -1,12 +1,12 @@
-***
-
-[torrenti](#torrenti_vsyakogo) <br/>
-[ssilki](#ssilki_vsyakogo) <br/>
-[repositorii](#repositorii_vsyakogo) <br/>
-[dlya androida](#dlya_androida_vsyakoe)
 
 
+- [torrenti](#torrenti_vsyakogo) <br/>
+- [ssilki](#ssilki_vsyakogo) <br/>
+- [repositorii](#repositorii_vsyakogo) <br/>
+- [dlya androida](#dlya_androida_vsyakoe)
 
+
+ <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 ***
 
 # torrenti_vsyakogo
@@ -24,17 +24,21 @@ https://rutracker.org/forum/viewtopic.php?t=6666806
 ```
 magnet:?xt=urn:btih:008DDA26888E3B8E16EB37D9FE8BAB24C16B30EA&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=WinRAR%207.11%20Final%20(x64)%20%5B03.2025%2C%20ENG%20%2B%20RUS%5D
 ```
- <br/>
 
 
+
+ <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 ***
 # ssilki_vsyakogo
 ### 1. qbittorrent
 https://www.qbittorrent.org/download
 
+### 2. Mozilla Firefox
+https://www.mozilla.org/ru/firefox/new/
 
 
 
+ <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 ***
 # repositorii_vsyakogo
 ### 1. sumatra PDF
@@ -69,8 +73,7 @@ https://github.com/massgravel/Microsoft-Activation-Scripts
 
 
 
-
-
+ <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 ***
 # dlya_androida_vsyakoe
 ### 1. Magisk root-права
@@ -78,3 +81,6 @@ https://github.com/topjohnwu/Magisk
 
 ### 2. zapret-magisk обход замедления ютуб
 https://github.com/ImMALWARE/zapret-magisk
+
+
+ <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
