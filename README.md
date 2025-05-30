@@ -52,7 +52,34 @@ magnet:?xt=urn:btih:0C32280A43BC4A6538FBB4A5ED0167A79B117E55&tr=http%3A%2F%2Fbt3
 <br/>
 
 
-### 6. 
+### 6. СПДС GraphiCS 21.0.3354 [Ru]
+https://nnmclub.to/forum/viewtopic.php?t=1407999
+```
+magnet:?xt=urn:btih:6ce773f8c5bc882e9620b042720ad8fd281dc688&tr=http%3A%2F%2Fbt02.nnm-club.cc%3A2710%2F00db65e04b001b91c349a12a8e2ad1ad%2Fannounce&tr=http%3A%2F%2Fbt02.nnm-club.cc%3A2710%2F00db65e04b001b91c349a12a8e2ad1ad%2Fannounce
+```
+<br/>
+
+
+### 7. SCAD (Structure CAD) Office v23.1.1.1
+https://lavteam.org/2023/08/02/scad-structure-cad-office-v23111.html <br/>
+файл: https://github.com/JustKresh/vsyakoe/blob/main/torrent_files/LAVteam.SCAD.Office.v23.1.1.1.torrent
+
+<br/>
+
+https://nnmclub.to/forum/viewtopic.php?t=1022359
+```
+magnet:?xt=urn:btih:d8850910ddc8ba6c27a70d398df1d15187fd5107&tr=http%3A%2F%2Fbt02.nnm-club.cc%3A2710%2F00db65e031b41c340c0a72d733c55f6f%2Fannounce&tr=http%3A%2F%2Fbt02.nnm-club.cc%3A2710%2F00db65e031b41c340c0a72d733c55f6f%2Fannounce
+```
+<br/>
+
+
+### 8. LiraLand ЛИРА-САПР + САПФИР 2024 R2.3
+https://lavteam.org/2025/01/13/liraland-lira-sapr-sapfir-2024-r23.html
+
+
+
+
+
 
 
 
