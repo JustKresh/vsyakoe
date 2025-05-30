@@ -1,12 +1,12 @@
 
 
 
-- [faili_bez_ssilok](#faili_bez_ssilok_vsyakoe) <br/>
+- [faili_bez_ssilok](#faili_bez_ssilok_vsyakogo) <br/>
 - [torrenti](#torrenti_vsyakogo) <br/>
 - [ssilki](#ssilki_vsyakogo) <br/>
 - [repositorii](#repositorii_vsyakogo) <br/>
 - [dlya androida](#dlya_androida_vsyakoe)
-
+- [windows](#windows_vsyakoe)
 
 
 
@@ -175,5 +175,26 @@ https://github.com/ImMALWARE/zapret-magisk
 
 
  <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
+***
+# windows_vsyakoe
+### 1. iso образы
+win 10: https://drive.google.com/file/d/1QCuuRcbLo7LnEhBmOrPXhPUOu4mNgfM9/view?usp=sharing <br/>
+win 11: https://drive.google.com/file/d/1bIho8Wua8Ilxa89crT3Kst2ZCc7pWEa9/view?usp=sharing
+
+### 2. Mid: минимум программ / обход TPM / офлайн установка
+win 10: https://sharemods.com/u1ygo3tl0vgb/autounattend.xml.html <br/>
+win 11: https://sharemods.com/l24w1rcqr7sa/autounattend.xml.html
+
+
+
+### 3. High: то же, что и в Mid / антивирус отключен / обновления отключены
+win 10: https://sharemods.com/6o8aappnbxo6/autounattend.xml.html <br/>
+win 11: https://sharemods.com/9yxms3yhyqy4/autounattend.xml.html
+
+### Создать свой файл можно тут
+https://schneegans.de/windows/unattend-generator/ <br/>
+
+
+
 
 reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f
