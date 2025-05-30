@@ -8,7 +8,23 @@
 
  <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 ***
+# faili_bez_ssilok_vsyakoe
 
+### 1. GeomProps
+https://github.com/JustKresh/vsyakoe/blob/main/files/GeomProps.rar
+<br/>
+
+
+### 2. VetCad++
+https://github.com/JustKresh/vsyakoe/blob/main/files/VetCad%2B%2B.rar
+
+
+
+
+
+
+ <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
+ ***
 # torrenti_vsyakogo
 
 ### 1. Microsoft Office Pro Plus 2024 LTSC x64 + Visio + Project (17932.20360) [ENG + RUS] {Massgrave}
