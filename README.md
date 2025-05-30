@@ -12,7 +12,7 @@
 
  <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 ***
-# faili_bez_ssilok_vsyakoe
+# faili_bez_ssilok_vsyakogo
 
 ### 1. GeomProps
 https://github.com/JustKresh/vsyakoe/blob/main/files/GeomProps.rar
