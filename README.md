@@ -1,9 +1,15 @@
 
 
+
+
+- [faili_bez_ssilok](#faili_bez_ssilok_vsyakoe) <br/>
 - [torrenti](#torrenti_vsyakogo) <br/>
 - [ssilki](#ssilki_vsyakogo) <br/>
 - [repositorii](#repositorii_vsyakogo) <br/>
 - [dlya androida](#dlya_androida_vsyakoe)
+
+
+
 
 
  <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
@@ -78,7 +84,7 @@ magnet:?xt=urn:btih:6ce773f8c5bc882e9620b042720ad8fd281dc688&tr=http%3A%2F%2Fbt0
 
 ### 7. SCAD (Structure CAD) Office v23.1.1.1
 https://lavteam.org/2023/08/02/scad-structure-cad-office-v23111.html <br/>
-file: https://github.com/JustKresh/vsyakoe/blob/main/torrent_files/LAVteam.SCAD.Office.v23.1.1.1.torrent
+torrent_file: https://github.com/JustKresh/vsyakoe/blob/main/torrent_files/LAVteam.SCAD.Office.v23.1.1.1.torrent
 
 <br/>
 
@@ -91,7 +97,7 @@ magnet:?xt=urn:btih:d8850910ddc8ba6c27a70d398df1d15187fd5107&tr=http%3A%2F%2Fbt0
 
 ### 8. LiraLand ЛИРА-САПР + САПФИР 2024 R2.3
 https://lavteam.org/2025/01/13/liraland-lira-sapr-sapfir-2024-r23.html <br/>
-file: https://github.com/JustKresh/vsyakoe/blob/main/torrent_files/LAVteam.LiraLand.LIRA.SAPR.2024.2.3.torrent
+torrent_file: https://github.com/JustKresh/vsyakoe/blob/main/torrent_files/LAVteam.LiraLand.LIRA.SAPR.2024.2.3.torrent
 
 <br/>
 
@@ -101,8 +107,9 @@ magnet:?xt=urn:btih:4a0f56e3f7ac22006d6af482cec3b34d974b78d8&tr=http%3A%2F%2Fbt0
 ```
 <br/>
 
-
-
+### 9. CSoft Project StudioCS Архитектура+Конструкции+Фундаменты 2018 v18.0.012
+https://lavteam.org/2022/02/24/csoft-project-studiocs-arhitekturakonstrukciifundamenty-2018-v180012.html
+torrent_file: https://github.com/JustKresh/vsyakoe/blob/main/torrent_files/LAVteam.CSoft.Project.StudioCS.2018.v18.0.012.torrent
 
 
 
