@@ -62,7 +62,7 @@ magnet:?xt=urn:btih:6ce773f8c5bc882e9620b042720ad8fd281dc688&tr=http%3A%2F%2Fbt0
 
 ### 7. SCAD (Structure CAD) Office v23.1.1.1
 https://lavteam.org/2023/08/02/scad-structure-cad-office-v23111.html <br/>
-файл: https://github.com/JustKresh/vsyakoe/blob/main/torrent_files/LAVteam.SCAD.Office.v23.1.1.1.torrent
+file: https://github.com/JustKresh/vsyakoe/blob/main/torrent_files/LAVteam.SCAD.Office.v23.1.1.1.torrent
 
 <br/>
 
@@ -74,9 +74,16 @@ magnet:?xt=urn:btih:d8850910ddc8ba6c27a70d398df1d15187fd5107&tr=http%3A%2F%2Fbt0
 
 
 ### 8. LiraLand ЛИРА-САПР + САПФИР 2024 R2.3
-https://lavteam.org/2025/01/13/liraland-lira-sapr-sapfir-2024-r23.html
+https://lavteam.org/2025/01/13/liraland-lira-sapr-sapfir-2024-r23.html <br/>
+file: https://github.com/JustKresh/vsyakoe/blob/main/torrent_files/LAVteam.LiraLand.LIRA.SAPR.2024.2.3.torrent
 
+<br/>
 
+https://nnmclub.to/forum/viewtopic.php?t=1770177
+```
+magnet:?xt=urn:btih:4a0f56e3f7ac22006d6af482cec3b34d974b78d8&tr=http%3A%2F%2Fbt02.nnm-club.cc%3A2710%2F00db65e01fdd63fc1c19c5feb7f5e036%2Fannounce&tr=http%3A%2F%2Fbt02.nnm-club.cc%3A2710%2F00db65e01fdd63fc1c19c5feb7f5e036%2Fannounce
+```
+<br/>
 
 
 
@@ -96,6 +103,8 @@ https://www.qbittorrent.org/download
 
 ### 2. Mozilla Firefox
 https://www.mozilla.org/ru/firefox/new/
+
+
 
 
 
