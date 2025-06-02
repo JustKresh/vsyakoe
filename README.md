@@ -106,7 +106,7 @@ magnet:?xt=urn:btih:4a0f56e3f7ac22006d6af482cec3b34d974b78d8&tr=http%3A%2F%2Fbt0
 <br/>
 
 ### 9. CSoft Project StudioCS Архитектура+Конструкции+Фундаменты 2018 v18.0.012
-https://lavteam.org/2022/02/24/csoft-project-studiocs-arhitekturakonstrukciifundamenty-2018-v180012.html
+https://lavteam.org/2022/02/24/csoft-project-studiocs-arhitekturakonstrukciifundamenty-2018-v180012.html <br/>
 torrent_file: https://github.com/JustKresh/vsyakoe/blob/main/torrent_files/LAVteam.CSoft.Project.StudioCS.2018.v18.0.012.torrent
 
 
@@ -125,8 +125,13 @@ https://www.qbittorrent.org/download
 ### 2. Mozilla Firefox
 https://www.mozilla.org/ru/firefox/new/
 
+### 3. AnyDesk
+https://anydesk.com/ru/downloads/thank-you?dv=win_exe <br/>
+file: https://github.com/JustKresh/vsyakoe/blob/main/files/AnyDesk.exe
 
-
+### 4. WinRar
+https://www.rarlab.com/ <br/>
+file: https://github.com/JustKresh/vsyakoe/blob/main/files/winrar-x64-701ru.exe
 
 
  <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
@@ -161,6 +166,10 @@ https://github.com/ilyhalight/voice-over-translation
 
 ### 10. Microsoft-Activation-Scripts Активация винды
 https://github.com/massgravel/Microsoft-Activation-Scripts
+
+### 11. mpc-hc
+https://github.com/mpc-hc/mpc-hc <br/>
+file: https://github.com/JustKresh/vsyakoe/blob/main/files/MPC-HC.1.7.13.x64.exe
 
 
 
@@ -202,7 +211,7 @@ https://github.com/JustKresh/vsyakoe/blob/main/files/win/high/11/autounattend.xm
 
 ### Создать свой файл можно тут
 https://schneegans.de/windows/unattend-generator/ <br/>
-***
+
 
 
 
@@ -210,6 +219,6 @@ https://schneegans.de/windows/unattend-generator/ <br/>
 
  
 reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f
-
+***
 
  <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
